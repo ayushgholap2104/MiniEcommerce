@@ -4,7 +4,7 @@
 
 ## 🕶 Preview
 
-![Mini Ecommerce Preview](mini-ecommerce.png)
+![Mini Ecommerce Preview](MiniEcommerce_Preview.jpg)
 
 ## 📝 Overview
 
